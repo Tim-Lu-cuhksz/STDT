@@ -3,9 +3,8 @@ This is the repository for Self Trained Decision Transformer (STDT), a course pr
 
 ## Acknowledgment
 
-## Video Demonstrations
+## Video Demonstrations of STDT
 
 
-<video width="320" height="240" controls>
-  <source src="Highway-env-success.mp4" type="video/mp4">
-</video>
+### A Successful Overtaking
+![sd](Highway-env-success.gif)
