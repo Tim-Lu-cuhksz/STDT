@@ -1,2 +1,11 @@
 # STDT
-Self Trained Decision Transformer -- Course Project of ECE 750 T40 at University of Waterloo
+This is the repository for Self Trained Decision Transformer (STDT), a course project at University of Waterloo.
+
+## Acknowledgment
+
+## Video Demonstrations
+
+
+<video width="320" height="240" controls>
+  <source src="Highway-env-success.mp4" type="video/mp4">
+</video>
