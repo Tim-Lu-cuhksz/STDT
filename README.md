@@ -1,5 +1,5 @@
 # STDT
-This is the repository for Self Trained Decision Transformer (STDT), a course project at University of Waterloo. Refer to [link](#installation) for packages installation and to run an example [here](#example).
+This is the repository for Self Trained Decision Transformer (STDT), a course project at University of Waterloo. Refer to [link](#installation) for packages installation and run an example [here](#example).
 
 ## Acknowledgment
 We acknowledge the work of [Decision Transformer](https://github.com/kzl/decision-transformer) upon which much of the codes in this repository are built.
