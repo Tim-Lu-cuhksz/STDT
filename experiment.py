@@ -385,7 +385,7 @@ def experiment(
                 env,
                 state_dim,
                 act_dim,
-                model,
+                trainer.model,
                 max_ep_len=max_ep_len,
                 scale=scale,
                 target_return=env_targets[1]/scale,
