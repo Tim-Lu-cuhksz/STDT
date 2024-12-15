@@ -1,4 +1,5 @@
 # Self-Trained Decision Transformer
+
 This is the repository for Self Trained Decision Transformer (STDT), a course project at University of Waterloo. Refer to [link](#installation) for packages installation and run an example [here](#example). The report could be found in the [link](ECE_750_T40_Final_Report.pdf).
 
 ## Acknowledgment
